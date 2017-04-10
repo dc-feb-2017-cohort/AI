@@ -3,7 +3,7 @@
 - another change
 adding stuff
 another thing
-changing things
+ things
 <table>
   <thead>
     <tr>
