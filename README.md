@@ -1,1 +1,2 @@
 # AI
+- read me stuff
